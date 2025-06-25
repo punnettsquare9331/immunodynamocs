@@ -170,7 +170,7 @@ fprintf('Gen=%d \n', Gen)
      % 90% are chosen from children by theta
      New_theta=theta;
      for pn=1:PN*0.9
-         if any(New_theta~=zeros(size(New_theta))) %LINE CHANGED
+         if any(New_theta > 0) %LINE CHANGED
             FindIndex(pn)=randsample(ChildrenIndex, 1, true, New_theta);
          else
             FindIndex(pn)=randsample(ChildrenIndex, 1, true);

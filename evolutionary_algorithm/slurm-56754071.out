@@ -1,0 +1,15 @@
+matlab/2023b.2:
+============================================================================================
+The software listed above is available for academic usage only. By continuing,
+you
+accept that you will not use the software for commercial or non-academic
+purposes.
+
+Le logiciel listé ci-dessus est disponible pour usage académique seulement.
+En
+continuant, vous acceptez de ne pas l'utiliser pour un usage commercial ou non
+académique.
+============================================================================================
+	 
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+slurmstepd: error: *** JOB 56754071 ON bc12132 CANCELLED AT 2025-06-25T20:29:49 ***
