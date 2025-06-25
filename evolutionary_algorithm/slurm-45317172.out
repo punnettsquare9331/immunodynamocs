@@ -1,0 +1,9 @@
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+{Error: File:
+/lustre06/project/6002257/pvelidi/immunodynamics/evolutionary_algorithm/EvolutionaryAlgorithm.m
+Line: 37 Column: 1
+Unable to classify the variable 'Parents' in the body of the parfor-loop. For
+more information, see Parallel for Loops in MATLAB, "Solve Variable
+Classification Issues in parfor-Loops".
+} 
+Opening log file:  /tmp/java.log.19640

@@ -1,0 +1,8 @@
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+{Error: File:
+/lustre06/project/6002257/pvelidi/immunodynamics/evolutionary_algorithm/EvolutionaryAlgorithm.m
+Line: 172 Column: 52
+Invalid text character. Check for unsupported symbol, invisible character, or
+pasting of non-ASCII characters.
+} 
+Opening log file:  /tmp/java.log.51429
